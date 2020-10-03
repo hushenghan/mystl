@@ -2,9 +2,18 @@
 //
 
 #include <iostream>
+#include "util.h"
+#include "test.h"
 
 int main()
 {
+	std::cout << "hello world" << std::endl;
+	//test_vector();
+	//test_list();
+	//test_stack();
+	//test_queue();
+	//test_bintree();
 
-    std::cout << "Hello World!\n";
+
 }
+
